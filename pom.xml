@@ -54,11 +54,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://34.122.147.224:8081/repository/Mvn_Privt_Release/</url>
+      <url>http://3.214.121.184:8081/repository/Mvn_Privt_Release/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-      <url>http://34.122.147.224:8081/repository/Mvn_Privt_Release/</url>
+      <url>http://3.214.121.184:8081/repository/Mvn_Privt_Snapshot/</url>
     </repository>
   
   </distributionManagement>
